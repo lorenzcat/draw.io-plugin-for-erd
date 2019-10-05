@@ -1,0 +1,17 @@
+{
+  "name": "erd_draw.io-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorenzo Catoni",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "babelify": "^10.0.0",
+    "browserify": "^16.5.0",
+    "uglifyify": "^5.0.2"
+  }
+}
