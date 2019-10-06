@@ -14,7 +14,7 @@ A line like `entity Employee(id pk, firstName, lastName, email, hireDate, salary
 
 - Navigate the menues to Extras > Plugins...
 - Hit the Add button
-- Paste [this](https://raw.githubusercontent.com/lorctn/ERD_draw.io-plugin/master/dist/erd-plugin.js) link into the dialog text field that appears
+- Paste [this](https://cdn.jsdelivr.net/gh/lorctn/ERD_draw.io-plugin/dist/erd-plugin.js) link into the dialog text field that appears (distributed through [jsDelivr](https://www.jsdelivr.com/))
 - Hit the Add button, and then the Apply button, and the OK button
 - Reload the draw.io page, and accept the load of the plugin which follows (see below)
 - Start using your newly installed plugin
