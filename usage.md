@@ -1,6 +1,8 @@
 # Usage
 
-All keywords are **case insensitive**.
+After loading the plugin in [draw.io](https://www.draw.io) a new button with this icon ![Alt text](./resources/icon.png) should appear in the toolbar on the top, clicking it will open a text area where you can type the commands listed below.
+
+NOTE: All keywords are **case insensitive**.
 
 ### Entity
 
