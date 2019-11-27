@@ -8,7 +8,7 @@
 const mk_entityObj_from_text = function(text)
 {
     // text must be like:
-    // entity|e entityName(att1 [pk], att2 [pk], ... )xy where x, y must be in [n, e, s, w]
+    // entity|e entityName(att1 [pk], att2 [pk], ... )[xy] where x, y must be in [n, e, s, w]
 
     let isEntity = true;
     let name = '';

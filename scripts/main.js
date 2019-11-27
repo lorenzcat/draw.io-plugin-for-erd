@@ -1,8 +1,8 @@
 'use strict';
 
 /*
- * draw.io is a wrapper around the mxGraph library -> https://jgraph.github.io/mxgraph/
- * here is the docs : http://jgraph.github.io/mxgraph/docs/js-api/files/index-txt.html 
+ * draw.io is built on top of the mxGraph library -> https://jgraph.github.io/mxgraph/
+ * ( docs : http://jgraph.github.io/mxgraph/docs/js-api/files/index-txt.html )
 */
 
 const draw = require('./drawers');
