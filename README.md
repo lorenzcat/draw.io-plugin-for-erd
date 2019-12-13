@@ -31,7 +31,7 @@ A line like `entity Employee(id pk, firstName, lastName, email, hireDate, salary
 When loading the plugin [draw.io](https://www.draw.io) prompts you this message: '*NOTE: Only allow plugins to run if you fully understand the security implications of doing so.*'. If you don't trust me you can build the project yourself and host the plugin locally. First clone [this](https://github.com/lorctn/draw.io-plugin-for-erd) repository, then do
 
 ```
-$ npm init
+$ npm install
 $ node build.js
 ```
 and then serve on the web (as you like, one quick way is `$ python -m http.server` ).
