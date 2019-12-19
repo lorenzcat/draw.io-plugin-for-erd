@@ -3,6 +3,10 @@
 /*
  * draw.io is built on top of the mxGraph library -> https://jgraph.github.io/mxgraph/
  * ( docs : http://jgraph.github.io/mxgraph/docs/js-api/files/index-txt.html )
+ * 
+ * part of this was done thanks to the code found here:
+ * https://github.com/mast4461/draw.io-fsm-plugin
+ * https://draw.io/plugins/sql.js
 */
 
 const draw = require('./drawers');
